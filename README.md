@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RifanAmrozi
-- 👀 I’m interested in Mathematics and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Matrix Analysis and Machine Learning
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Computer Vision
+- 📫 Reach me on LinkedIn
 
 <!---
 RifanAmrozi/RifanAmrozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
