@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RifanAmrozi
 - 👀 I’m interested in Matrix Analysis and Machine Learning
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision and Software Engineering Back-End
 - 📫 Reach me on LinkedIn
 
 <!---
